@@ -46,7 +46,7 @@ public class Automovil extends Vehiculo{
     public String mostrarInformacion() {
         int circulacion = 2023-año;
         return "Automovil:\nMarca: "+marca+"\nModelo: "+modelo+"\nAño: "+año+"\nPropietario:"+propietario+
-                "\nPLaca: "+placa+"\nNumero de puertas: "+numPuertas+"\nAños en circulación:"+circulacion;
+                "\nPLaca: "+placa+"\nNumero de puertas: "+numPuertas+"\nAños en circulación:"+circulacion+"\nPlaca:"+placa;
     }
     
     
